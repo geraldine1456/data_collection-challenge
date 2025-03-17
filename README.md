@@ -18,10 +18,9 @@
 ## Outputs
 -   Organized list of Mars news titles and previews (mars_news.json)
 -   A structured Mars weather data file (mars_data.csv)
--   Bar charts for temperature and pressure trends across Martian months    
-# ![alt text](avg_temp_by_month-1.png), 
-# ![alt text](avg_pressure_by_month-1.png)
--   Visualization estimating the length of a Martian year in Earth days
+-   Bar chart for temperature ![alt text](avg_temp_by_month-1.png) 
+-   Bar chart for atmospheric pressure ![alt text](avg_pressure_by_month-1.png)  
+-   Visualization estimating the length of a Martian year in Earth days ![alt text](mars_data_df-1.png)
  
 ## Tools and Libraries 
 -   Web scraping: Splinter, Beautiful Soup 
