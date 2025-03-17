@@ -5,8 +5,8 @@
 ### This challenge focuses on applying web-scraping and data analysis skills to gather, process, and interpret data from online sources. The objective is to enhance capabilities in data collection, organization, and visualization to derive meaningful insights.
 
 ### The project is divided into two parts, each producing a distinct deliverable:
-1.	__Mars News Scraper__: Scrape titles and preview text of news articles from the Mars News website. Script (part_1_mars_news.ipynb)
-2.	__Mars Weather Data Analysis__: Scrape and analyze Mars weather data from an HTML table. Script (part_2_mars_weather.ipynb)
+1.	__Mars News Scraper__: Scrape titles and preview text of news articles from the Mars News website. __Script (part_1_mars_news.ipynb)__
+2.	__Mars Weather Data Analysis__: Scrape and analyze Mars weather data from an HTML table. __Script (part_2_mars_weather.ipynb)__
 
 ## Key Insights:
 -   Number of months on Mars: 12
